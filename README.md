@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Glend</h1>
 <h3 align="center">A passionate frontend dev and web development</h3>
 
-- 🌱 I’m currently learning **ReactJS, and Astro**
+- 🌱 I’m currently learning <a href="https://react.dev/" target="_blank"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="20" height="20"></a> and <a href="https://astro.build/" target="_blank"><img src="https://www.svgrepo.com/show/373446/astro.svg" width="20" height="20"></a>
+  
 
 - 👨‍💻 All of my projects are available at [glendputraaa.vercel.app](glendputraaa.vercel.app)
 
