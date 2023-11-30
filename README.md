@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning <a href="https://react.dev/" target="_blank"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="20" height="20"></a> and <a href="https://astro.build/" target="_blank"><img src="https://www.svgrepo.com/show/373446/astro.svg" width="20" height="20"></a>
   
 
-- 👨‍💻 My projects are available at this [website](glendputraaa.vercel.app)
+- 👨‍💻 My projects are available at this <a href="glendputraaa.vercel.app"> Website </a>
 
 - 📫 Reach me at **glenddelonge@gmail.com**
 
