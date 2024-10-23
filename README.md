@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Glend</h1>
 <h3 align="center">A frontend dev</h3>
-
-- 🌱 I’m currently learning <a href="https://react.dev/" target="_blank"><img src="https://www.svgrepo.com/show/374032/reactjs.svg" width="20" height="20"></a> and <a href="https://astro.build/" target="_blank"><img src="https://www.svgrepo.com/show/373446/astro.svg" width="20" height="20"></a>
   
 
-- 👨‍💻 My projects are available at this <a href="https://glendputraaa.vercel.app" target="_blank"> Website </a>
+- 👨‍💻 My projects are available at this <a href="https://glendputraaa.vercel.app" target="_blank"> website </a>
 
 - 📫 Reach me at **glenddelonge@gmail.com**
 
